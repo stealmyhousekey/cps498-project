@@ -1,1 +1,4 @@
-# cps498-project
+# CPS498 Project
+- Stuff
+- Things
+- Yeah
